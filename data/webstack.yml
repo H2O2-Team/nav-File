@@ -15,7 +15,7 @@
       logo: Cloudreve.webp
       url: https://cloud.h2o-2.org/
       description: 我们自建的云盘，可能...不太好用（
-    - title: 网站监控
+    - title: Uptime Kuam
       logo: Uptime Kuam.webp
       url: https://up.h2o-2.org/status/services/
       description: 网站运行的实时监控
