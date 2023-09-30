@@ -15,6 +15,10 @@
       logo: Cloudreve.webp
       url: https://cloud.h2o-2.org/
       description: 我们自建的云盘，可能...不太好用（
+    - title: 网站监控
+      logo: Uptime Kuam.webp
+      url: https://up.h2o-2.org/status/services/
+      description: 网站运行的实时监控
     - title: 订阅转换
       logo: H2O2.webp
       url: https://sub.h2o-2.org/
@@ -23,10 +27,6 @@
       logo: Yacd-Meta.webp
       url: https://yacd-meta.h2o-2.org/
       description: Clash.Meta面板~
-    - title: 网站监控
-      logo: Yacd-Meta.webp
-      url: https://up.h2o-2.org/status/services/
-      description: 网站运行的实时监控
 
 
 
