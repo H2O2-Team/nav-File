@@ -23,6 +23,10 @@
       logo: Yacd-Meta.webp
       url: https://yacd-meta.h2o-2.org/
       description: Clash.Meta面板~
+    - title: 网站监控
+      logo: Yacd-Meta.webp
+      url: https://up.h2o-2.org/status/services/
+      description: 网站运行的实时监控
 
 
 
