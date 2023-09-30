@@ -10,7 +10,5 @@
   icon: fa fa-cog
   link: ""
   list:
-    - name: 团队
+    - name: 关于团队
       url: "https://h2o-2.org/Team-Members"
-    - name: 贡献
-      url: "https://h2o-2.org/contribute"
