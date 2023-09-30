@@ -1,0 +1,92 @@
+---
+
+- taxonomy: 我们的网站
+  icon: far fa-star
+  links: 
+    - title: 主站点
+      logo: H2O2.webp
+      url: https://h2o-2.org/
+      description: 这是主站点哦~
+    - title: AList
+      logo: AList.webp
+      url: https://ds.h2o-2.org/
+      description: 是下载站~
+    - title: Cloudreve
+      logo: Cloudreve.webp
+      url: https://cloud.h2o-2.org/
+      description: 我们自建的云盘，可能...不太好用（
+    - title: 订阅转换
+      logo: H2O2.webp
+      url: https://sub.h2o-2.org/
+      description: 可以在这里转换你的机场订阅哦~
+    - title: Yacd-Meta
+      logo: Yacd-Meta.webp
+      url: https://yacd-meta.h2o-2.org/
+      description: Clash面板~
+
+
+
+
+
+
+- taxonomy: 游戏平台
+  icon: fab fa-steam
+  list: 
+     - term: 游戏平台
+       links:
+          - title: Steam
+            logo: Steam.webp
+            url: https://store.steampowered.com/
+            description: Steam就不用多说了吧？
+          - title: Xbox
+            logo: Xbox.webp
+            url: https://www.xbox.com/
+            description: 还用我说？（  
+          - title: Activision
+            logo: Activision.webp
+            url: https://www.activision.com/
+            description: 动视官网，烤迪克，你 妈什么时候死啊                  
+          - title: Rockstar
+            logo: Rockstar.webp
+            url: https://www.rockstargames.com/
+            description: R星官网    
+          - title: Ubisoft
+            logo: Ubisoft.webp
+            url: https://zh-cn.ubisoft.com/
+            description: 阿育~服务器又炸了~                  
+
+
+
+
+- taxonomy: 实用工具
+  icon: fas fa-flask fa-lg
+  list:
+    - term: 邮箱
+      links:
+        - title: 网易邮箱
+          logo: 网易邮箱.webp
+          url: https://mail.163.com/
+          description: 比QQ邮箱好（
+        - title: Outlook
+          logo: Outlook.webp
+          url: https://outlook.live.com/
+          description: 个人除了Gmail外最常用的邮箱~
+        - title: Gmail
+          logo: Gmail.webp
+          url: https://mail.google.com/
+          description: 是Google邮箱哦~
+    - term: 开源社区
+      links:
+        - title: Github
+          logo: Github.webp
+          url: https://github.com/
+          description: 最出名的开源社区~
+        - title: Gitlab
+          logo: Gitlab.webp
+          url: https://Gitlab.com/
+          description: The One DevOps Platform
+        - title: Gitee
+          logo: Gitee.webp
+          url: https://Gitee.com/
+          description: 为什么不用Github（
+
