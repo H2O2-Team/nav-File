@@ -1,6 +1,6 @@
 baseURL               = "https://nav.h2o-2.org"
 languageCode          = "zh-CN"
-title                 = "H2O2 Team 网址导航"
+title                 = "H2O2 导航站"
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
@@ -10,7 +10,7 @@ publishDir            = "public"					# 站点静态文件保存目录
 
 [params]
     author        = "H2O2 Team"
-    description   = "H2O2  导航站 | Hugo 主题 BY Bio IT 爱好者"
+    description   = "H2O2 导航站"
     upload        = "https://h2o-2.org/comment"  # 左侧导航栏的"网站提交"
     about         = "https://shumlab.com/cookbook/webstack-hugo"	# 左侧导航栏的"关于导航"页面(./about)
     repository    = "https://github.com/shenweiyan/WebStack-Hugo"  
