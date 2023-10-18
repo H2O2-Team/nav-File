@@ -6,15 +6,15 @@
     - title: 主站点
       logo: H2O2.webp
       url: https://h2o-2.org/
-      description: 教程在这里
+      description: 教程在这里哦~
     - title: AList
       logo: AList.webp
       url: https://ds.h2o-2.org/
-      description: 下载站
+      description: 是下载站~
     - title: Cloudreve
       logo: Cloudreve.webp
       url: https://cloud.h2o-2.org/
-      description: 自建云盘
+      description: 自建云盘~
     - title: Uptime Kuam
       logo: Uptime Kuam.webp
       url: https://up.h2o-2.org/status/services/
@@ -74,11 +74,15 @@
         - title: Outlook
           logo: Outlook.webp
           url: https://outlook.live.com/
-          description: 个人除了Gmail外最常用的邮箱
+          description: 个人除了Gmail外最常用的邮箱~
         - title: Gmail
           logo: Gmail.webp
           url: https://mail.google.com/
           description: 是Google邮箱哦~
+        - title: Proton Mail
+          logo: proton-mail.webp
+          url: https://mail.proton.me/
+          description: 据说是隐私性极强的邮箱~  
     - term: 开源社区
       links:
         - title: Github
