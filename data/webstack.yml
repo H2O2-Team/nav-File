@@ -6,29 +6,19 @@
     - title: 主站点
       logo: H2O2.webp
       url: https://h2o-2.org/
-      description: 教程在这里哦~
+      description: 教程在这里
     - title: AList
       logo: AList.webp
       url: https://ds.h2o-2.org/
-      description: 是下载站~
+      description: 是下载站
     - title: Cloudreve
       logo: Cloudreve.webp
       url: https://cloud.h2o-2.org/
-      description: 自建云盘~
+      description: 自建云盘🤔
     - title: Uptime Kuam
       logo: Uptime Kuam.webp
       url: https://up.h2o-2.org/status/services/
       description: 网站运行的实时监控
-    - title: 订阅转换
-      logo: H2O2.webp
-      url: https://sub.h2o-2.org/
-      description: 可以在这里转换你的机场订阅
-    - title: Yacd-Meta
-      logo: Yacd-Meta.webp
-      url: https://yacd-meta.h2o-2.org/
-      description: Clash.Meta面板
-
-
 
 
 
