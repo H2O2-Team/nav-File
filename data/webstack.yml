@@ -10,19 +10,11 @@
     - title: AList-主站
       logo: AList.webp
       url: https://ds.h2o-2.org/
-      description: 是下载站
-    - title: AList-备用
-      logo: AList.webp
-      url: https://slime-clammy-motion.glitch.me/
-      description: 下载站的备用站点      
-    - title: Cloudreve
-      logo: Cloudreve.webp
-      url: https://cloud.h2o-2.org/
-      description: 自建云盘🤔
-    - title: Uptime Kuam
+      description: 是下载站      
+    - title: Chatgpt Next Web
       logo: Uptime Kuam.webp
       url: https://up.h2o-2.org/status/services/
-      description: 网站运行的实时监控
+      description: 自备API！（(╯‵□′)╯︵┻━┻）
 
 
 
