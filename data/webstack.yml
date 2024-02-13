@@ -19,6 +19,10 @@
       logo: synctv.png
       url: https://synctv.h2o-2.org/
       description: 可以在线直播或是看片（划）喵
+    - title: Gemini Chat
+      logo: ai.png
+      url: https://ai.h2o-2.org/
+      description: Google的人工智能Gemini哦
 
 
 
