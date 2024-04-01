@@ -34,7 +34,7 @@
           - title: Xbox
             logo: Xbox.webp
             url: https://www.xbox.com/
-            description: 西瓜皮~
+            description: 西瓜皮
           - title: Activision
             logo: Activision.webp
             url: https://www.activision.com/
@@ -46,7 +46,7 @@
           - title: Ubisoft
             logo: Ubisoft.webp
             url: https://zh-cn.ubisoft.com/
-            description: 阿育~服务器又炸了~                  
+            description: 阿育，服务器又炸了               
 
 
 
@@ -59,31 +59,17 @@
         - title: 网易邮箱
           logo: 网易邮箱.webp
           url: https://mail.163.com/
-          description: 比QQ邮箱好（
+          description: 比QQ邮箱好，一点点……？
         - title: Outlook
           logo: Outlook.webp
           url: https://outlook.live.com/
-          description: 个人除了Gmail外最常用的邮箱~
+          description: Outlook邮箱，有什么好说的
         - title: Gmail
           logo: Gmail.webp
           url: https://mail.google.com/
-          description: 是Google邮箱哦~
+          description: 是Google邮箱，有什么好说的
         - title: Proton Mail
           logo: proton-mail.webp
           url: https://mail.proton.me/
-          description: 据说是隐私性极强的邮箱~  
-    - term: 开源社区
-      links:
-        - title: Github
-          logo: Github.webp
-          url: https://github.com/
-          description: 最出名的开源社区~
-        - title: Gitlab
-          logo: Gitlab.webp
-          url: https://Gitlab.com/
-          description: The One DevOps Platform
-        - title: Gitee
-          logo: Gitee.webp
-          url: https://Gitee.com/
-          description: 为什么不用Github（
+          description: 据说是隐私性极强的邮箱
 
